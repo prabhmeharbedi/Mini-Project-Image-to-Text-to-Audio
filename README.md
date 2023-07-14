@@ -5,3 +5,9 @@ This project is a Python script that performs optical character recognition (OCR
 ## Installation
 
 To run this project, you need to have Python installed on your system. You can install the required libraries by running the following commands:
+
+!sudo apt install tesseract-ocr
+!pip install pytesseract
+!pip install Pillow==9.0.0
+!pip install gTTS
+
