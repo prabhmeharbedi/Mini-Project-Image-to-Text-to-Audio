@@ -2,7 +2,7 @@
 
 This project is a Python script that performs optical character recognition (OCR) on an image and converts the extracted text into speech using Google Text to Speech (gTTS).
 
-## Project Description
+## Project Description 
 
 The purpose of this project is to demonstrate how to use Python libraries to extract text from an image using OCR techniques and convert the extracted text into speech. The project utilizes the following libraries:
 
